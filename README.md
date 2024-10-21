@@ -2,3 +2,5 @@
 
 Prénom : Alexandre <br />
 Nom : Bérubé
+
+Ajout phrase test pour vérifier la regle ajoutée
